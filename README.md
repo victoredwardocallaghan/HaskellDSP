@@ -1,6 +1,7 @@
 # HaskellDSP
 
 ```
+  $ runhaskell Generate.hs
   octave:1> show_signal('testsig.bin');
 ```
 
